@@ -12,6 +12,7 @@ export default function MyApp({ Component, pageProps }) {
           name="description"
           content="Example Hello world with netxjs"
         />
+        <meta name="robots" content="all" />
       </Head>
       <Component />
     </>
